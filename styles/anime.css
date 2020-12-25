@@ -1,0 +1,40 @@
+header{
+    background-color: lightskyblue;
+}
+
+/*for test*/
+#final{
+    font-size: 1.5em;
+    margin: 5%;
+}
+
+#sc{
+    color: crimson;
+    font-size: 3em;
+}
+
+#repeat{
+    margin: 15px;
+}
+
+p.question{
+    margin: 2em;
+}
+
+button{
+    width: 25%;
+    height: 50px;
+    font-size: 1.25em;
+}
+
+p.big-text{
+    font-size: 1.5em;
+}
+
+p{
+    font-size: 1.25em;
+}
+
+body{
+    background-color: lightyellow;
+}
