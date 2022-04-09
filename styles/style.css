@@ -1,6 +1,13 @@
 body {
     font-family: "Open Sans", serif;
 }
+table{
+    border: 1px black;
+}
+
+th, td{
+    border-style: solid;
+}
 
 img.ill {
     align-content: center;
@@ -85,6 +92,15 @@ p#moveUp a:visited {
     color: blue;
 }
 
+figure {
+    background: #5f6a72; /* Цвет фона */
+    padding: 10px; /* Поля вокруг */
+    display: block; /* Блочный элемент */
+    width: 150px; /* Ширина */
+    border: black;
+    margin: 0 10px 10px 0; /* Отступы */
+    text-align: center; /* Выравнивание по центру */
+}
 
 @font-face {
     font-family: "Open Sans";
